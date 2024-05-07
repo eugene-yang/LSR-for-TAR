@@ -1,0 +1,6 @@
+ir_measures
+torch
+torchvision
+torchaudio
+transformers
+tarexp>=0.1.4
