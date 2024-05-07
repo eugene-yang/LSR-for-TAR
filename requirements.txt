@@ -3,4 +3,5 @@ torch
 torchvision
 torchaudio
 transformers
+more-itertools
 tarexp>=0.1.4
